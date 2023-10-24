@@ -187,7 +187,7 @@ body{
     top:300px ;
      animation-name: change;
      animation-duration: 3s;
-     animation-delay: 0.5s;
+     animation-delay: 1s;
      visibility: hidden;
      animation-fill-mode: forwards;
 
